@@ -8,70 +8,73 @@
 
 ## 🚀 About Me
 
-I am a motivated Data Science and Artificial Intelligence student with a strong academic background and hands-on experience in programming, data analysis, and intelligent systems.  
-I enjoy learning new technologies and applying them to solve real-world problems, especially in **healthcare**, **humanitarian services**, and **smart systems**.
+I am a motivated **Data Science and Artificial Intelligence student** with a strong academic background and hands-on experience in programming, data analysis, and intelligent systems.
 
+I enjoy learning new technologies and applying them to solve **real-world problems**, particularly in:
+- 🏥 Healthcare  
+- 🤝 Humanitarian services  
+- 🤖 Smart and intelligent systems  
+
+I am highly interested in leveraging **AI and data-driven solutions** to create positive social impact.
 
 ---
 
 ## 🎓 Education
 
-
-- **Data Science & Artificial Intelligence**  
+- **B.Sc. in Data Science & Artificial Intelligence**  
   *University College of Applied Sciences (UCAS)*
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 👨‍💻 Programming
-- Python
-- SQL
-- Basic C / C++
-- Arduino Programming
+### 👨‍💻 Programming Languages
+- Python  
+- SQL  
+- Arduino Programming  
 
-### 📊 Data Science & AI
-- Data Analysis
-- Machine Learning (Basics)
-- Deep Learning (Introductory)
-- Image Processing
-- Data Warehousing
-- Expert Systems
-- Natural Language Processing (NLP – Basics)
+### 📊 Data Science & Artificial Intelligence
+- Data Analysis & Visualization  
+- Machine Learning 
+- Deep Learning 
+- Image Processing  
+- Data Warehousing  
+- Expert Systems  
+- Natural Language Processing  
 
 ### ⚙️ Tools & Platforms
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- Google Colab
-- Wokwi / Tinkercad / Proteus
-- ROS 2 & Gazebo (Basic)
-- Linux (Ubuntu)
+- Git & GitHub  
+- Jupyter Notebook  
+- Visual Studio Code  
+- Google Colab  
+- Wokwi / Tinkercad / Proteus  
+- ROS 2 & Gazebo (Basic)  
+- Linux (Ubuntu)  
 
 ---
 
-## 🧠 Academic Projects
+## 🧠 Academic & Practical Projects
 
-- 🏥 **Healthcare Data Warehouse**
-- 🖼️ **Image Processing using Python**
-  - Grayscale conversion
-  - Noise reduction using Median Filter
-- 🤖 **Expert Systems Projects**
-- 🔌 **Embedded Systems with Arduino**
-- 🌞 **Solar Energy System Analysis**
-
+- 🏥 **Healthcare Data Warehouse System**  
+- 🖼️ **Image Processing Projects using Python**
+  - Grayscale conversion  
+  - Noise reduction using Median Filtering  
+- 🤖 **Expert Systems Applications**  
+- 🔌 **Embedded Systems Projects**  
+- 🌞 **Solar Energy System Analysis**  
+- 🧠 **Machine Learning & NLP Projects**  
 
 ---
 
 ## 🌍 Interests
 
-- Artificial Intelligence & Machine Learning
-- Data Science Applications
-- Smart Systems & IoT
-- Robotics
-- Humanitarian & Social Impact Projects
-- Open-source contribution
+- Artificial Intelligence & Machine Learning  
+- Data Science Applications  
+- Smart Systems & Internet of Things (IoT)  
+- Robotics  
+- Humanitarian & Social Impact Projects  
+- Open-Source Contribution  
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ **Feel free to explore my repositories, check out my projects, and connect with me!**
