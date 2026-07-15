@@ -47,7 +47,6 @@ I am highly interested in leveraging **AI and data-driven solutions** to create 
 - Jupyter Notebook  
 - Visual Studio Code  
 - Google Colab  
-- Wokwi / Tinkercad / Proteus  
 - ROS 2 & Gazebo (Basic)  
 - Linux (Ubuntu)  
 
@@ -55,7 +54,6 @@ I am highly interested in leveraging **AI and data-driven solutions** to create 
 
 ## 🧠 Academic & Practical Projects
 
-- 🏥 **Healthcare Data Warehouse System**  
 - 🖼️ **Image Processing Projects using Python**
   - Grayscale conversion  
   - Noise reduction using Median Filtering  
