@@ -1,78 +1,83 @@
 # 👋 Hi, I'm Hamza Obaid
 
-🎓 **Data Science & Artificial Intelligence Student**  
-📍 Palestine  
-💡 Passionate about AI, Data Science, and Technology for Social Good
+🎓 **Data Science & Artificial Intelligence Student at UCAS**
+📍 Palestine
+💡 Passionate about Artificial Intelligence, Data Science, Robotics, and Technology for Social Good.
 
 ---
 
 ## 🚀 About Me
 
-I am a motivated **Data Science and Artificial Intelligence student** with a strong academic background and hands-on experience in programming, data analysis, and intelligent systems.
-
-I enjoy learning new technologies and applying them to solve **real-world problems**, particularly in:
-- 🏥 Healthcare  
-- 🤝 Humanitarian services  
-- 🤖 Smart and intelligent systems  
-
-I am highly interested in leveraging **AI and data-driven solutions** to create positive social impact.
+I am a Data Science and Artificial Intelligence student who enjoys building intelligent solutions using machine learning, data analysis, and modern software technologies. I continuously improve my skills through academic projects, self-learning, and open-source practice.
 
 ---
 
 ## 🎓 Education
 
-- **B.Sc. in Data Science & Artificial Intelligence**  
-  *University College of Applied Sciences (UCAS)*
+- **B.Sc. in Data Science & Artificial Intelligence**
+  University College of Applied Sciences (UCAS)
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌱 Currently Learning
 
-### 👨‍💻 Programming Languages
-- Python  
-- SQL  
-- Arduino Programming  
-
-### 📊 Data Science & Artificial Intelligence
-- Data Analysis & Visualization  
-- Machine Learning 
-- Deep Learning 
-- Image Processing  
-- Data Warehousing  
-- Expert Systems  
-- Natural Language Processing  
-
-### ⚙️ Tools & Platforms
-- Git & GitHub  
-- Jupyter Notebook  
-- Visual Studio Code  
-- Google Colab  
-- ROS 2 & Gazebo (Basic)  
-- Linux (Ubuntu)  
+- Advanced Machine Learning
+- Deep Learning
+- Computer Vision
+- Large Language Models (LLMs)
 
 ---
 
-## 🧠 Academic & Practical Projects
+## 🛠️ Skills
 
-- 🖼️ **Image Processing Projects using Python**
-  - Grayscale conversion  
-  - Noise reduction using Median Filtering  
-- 🤖 **Expert Systems Applications**  
-- 🔌 **Embedded Systems Projects**  
-- 🌞 **Solar Energy System Analysis**  
-- 🧠 **Machine Learning & NLP Projects**  
+### Programming
+- Python
+- SQL
+- Arduino
+
+### AI & Data Science
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Image Processing
+- Data Visualization
+- Data Warehousing
+
+### Tools
+- Git & GitHub
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- Linux (Ubuntu)
+- ROS 2
+
+---
+
+## 📂 Featured Projects
+
+- Image Processing using Python
+- Machine Learning Applications
+- NLP Projects
+- Embedded Systems Projects
+- Solar Energy Analysis
 
 ---
 
 ## 🌍 Interests
 
-- Artificial Intelligence & Machine Learning  
-- Data Science Applications  
-- Smart Systems & Internet of Things (IoT)  
-- Robotics  
-- Humanitarian & Social Impact Projects  
-- Open-Source Contribution  
+- Artificial Intelligence
+- Data Science
+- Robotics
+- IoT
+- Open Source
+- Humanitarian Technology
 
 ---
 
-⭐ **Feel free to explore my repositories, check out my projects, and connect with me!**
+## 📫 Connect with Me
+
+- LinkedIn:(https://www.linkedin.com/in/hamza--obaid/)
+
+---
+
+⭐ Thanks for visiting my GitHub profile. Feel free to explore my repositories and connect with me!
